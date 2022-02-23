@@ -15,7 +15,7 @@ E tanto o cliente que saberá os dias, horários, que estarão livres para fazer
 
 ## funcionalidades
 
-``` Em breve: uma descrição do que teremos nesse projeto ``
+``` Em breve: uma descrição do que teremos nesse projeto ```
 
 ## tech
 
