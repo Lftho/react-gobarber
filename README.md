@@ -1,18 +1,17 @@
 ## GoBarber
 
-Logon
-<img width="800" height="500" src="https://github.com/Lftho/gobarber-web/blob/master/src/assets/app-assets/tela-02.png" alt="logon" />
+Logon <br>
+<img src="https://github.com/Lftho/gobarber-web/blob/master/src/assets/app-assets/tela-02.png" alt="logon" />
 
-Cadastro
+Cadastro <br>
 <img src="https://github.com/Lftho/gobarber-web/blob/master/src/assets/app-assets/tela-03.png" alt="cadastro" /> 
 
 ## início
 
-Aplicação está retormada para dar continuidade nas feature/funcionalidade do projeto.
+Aplicação está retormandoa para dar continuidade em novas funcionalidade do projeto.
 
-O conceito da aplicação é uma barbearia que consiste em ajudar tanto o dono do estabelecimento sabendo que irá fazer 
-a barba naquele dia. E tanto o cliente que saberá os dias, horários, que estarão livres para fazer a marcação do 
-corte da barba.
+O conceito da aplicação é uma barbearia que consiste em ajudar tanto o dono do estabelecimento sabendo terá cliente naquele dia. 
+E tanto o cliente que saberá os dias, horários, que estarão livres para fazer a marcação do corte.
 
 ## funcionalidades
 
@@ -20,4 +19,7 @@ corte da barba.
 
 ## tech
 
-- React utilizando o typescript
+React utilizando o typescript
+
+
+Feito por 💜 Lftho :wave:
