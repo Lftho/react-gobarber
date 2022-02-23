@@ -1,7 +1,7 @@
 ## GoBarber
 
 Algumas animações do logon e cadastro
-<video src="https://github.com/Lftho/gobarber-web/blob/master/src/assets/app-assets/tela-01.mov"></video>
+<video src="https://github.com/Lftho/gobarber-web/blob/master/src/assets/app-assets/tela-01.mp4"></video>
 
 Logon
 
