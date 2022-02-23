@@ -1,7 +1,7 @@
 ## GoBarber
 
 Logon
-<img src="https://github.com/Lftho/gobarber-web/blob/master/src/assets/app-assets/tela-02.png" alt="logon" />
+<img width="500" height="500" src="https://github.com/Lftho/gobarber-web/blob/master/src/assets/app-assets/tela-02.png" alt="logon" />
 
 Cadastro
 <img src="https://github.com/Lftho/gobarber-web/blob/master/src/assets/app-assets/tela-03.png" alt="cadastro" /> 
