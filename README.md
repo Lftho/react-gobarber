@@ -8,7 +8,7 @@ Cadastro <br>
 
 ## início
 
-Aplicação está retormandoa para dar continuidade em novas funcionalidade do projeto.
+Aplicação está sendo retomada para ter novas funcionalidade do projeto.
 
 O conceito da aplicação é uma barbearia que consiste em ajudar tanto o dono do estabelecimento sabendo terá cliente naquele dia. 
 E tanto o cliente que saberá os dias, horários, que estarão livres para fazer a marcação do corte.
